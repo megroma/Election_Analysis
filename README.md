@@ -50,6 +50,6 @@ Helping Tom and Seth to complie the congressional election data to provide to th
 ## Election Audit Summary
 Business Proposal to commission on how this script can be used
 
-### modification 1
+### modification 1 electoral college for presidential campaigns
 
-### modifaction 2
+### modifaction 2 cadidate break down by county to assisst in future campaigns. 
