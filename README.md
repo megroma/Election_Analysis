@@ -55,8 +55,5 @@ Helping Tom and Seth to complie the congressional election data to provide to th
 -With the 73.8 percent of the vote and 272,892 votes counts Diana DeGette won the election. 
 
 ## Election Audit Summary
-Business Proposal to commission on how this script can be used
+This script can be utilized in many different elections. The county can be changed to city or state depending on the data provided. I would also recommend further analysis of the data to determine the percentage of the vote each candidate received in each county. Other script can also be added to account for information that is not in the current data set. These could be demographic or party data that could help with future polling or campaigning.
 
-### modification 1 electoral college for presidential campaigns
-
-### modifaction 2 cadidate break down by county to assisst in future campaigns. 
